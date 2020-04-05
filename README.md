@@ -8,7 +8,39 @@ We let consumers support their local business owners digitally.  Throw our inter
 The sudden loss of revenue faced by restaurants, shops, farmers, craftsmen, different product providers and others make them extremely vulnerable. Most of small and midsize businesses are not digital enough and cannot easily coordinate with other owners. 
 
 
-Following tech is used:
+
+
+
+
+Problem
+The sudden loss of revenue faced by restaurants, shops, farmers, craftsmen, different product providers and others make them extremely vulnerable. Most of small and midsize businesses are not digital enough and cannot easily coordinate with each other.
+
+
+What it does
+Common e-commerce platform for local communities will help business to organised better and give better offer to there customers that want to support local companies. By uniting and focusing on local platform will be easy todo local marketing and logistic.
+
+
+How I built it
+I created web solution and connected partners throw API and linking.
+
+
+Challenges I ran into
+To big idea that was not possible to solve without partners.
+
+
+Accomplishments that I'm proud of
+By talking to mentors I found good partners and solutions that I could use to offer that big idea without programing too much and reuse already build services on market.
+
+
+What I learned
+There plenty of services out there, get to know and connect them together to offer great value to your customers.
+
+
+What's next for Salutorg.se - Save your local community
+Launch in Helsingborg, Sweden. Make white label solution so other communities can easy setup there common marketplace. Develop API connection to Quickbutik, Microsoft Dynamix and other to offer customer great product.
+
+
+Built With
 
 Microsoft Dynamixs Customer Insigts - To get better understanding of customers and automatises and customise offers from shops. 
 
